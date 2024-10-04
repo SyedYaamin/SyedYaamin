@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub profile README with skill logos instead of text:
-
----
-
 # Hi there, I'm Yaamin! 👋
 
 Welcome to my GitHub! I'm a **Frontend Developer** and a current **Software Engineering** student at the **University of Karachi**. Alongside my studies, I’m enrolled in the **SMIT (Saylani Mass IT) Training Program**, where I’m learning even more about web development and refining my skills. 
